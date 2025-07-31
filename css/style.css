@@ -23,6 +23,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: scroll;
+    font-family: 'Delius', serif;
     background-color: rgb(19, 18, 18);
 }
 
@@ -37,7 +38,7 @@ body {
 /*HEADINGS-----------------------*/
 h1, h2, h3 {
     color: goldenrod;
-    font-family: 'Lucida Calligraphy', sans-serif;
+    font-family: 'Leckerli One', sans-serif;
     font-size: 2em;
     padding-top: 10px;
     margin: 0 auto;
@@ -101,6 +102,7 @@ fieldset, legend, legend {
 	color: #fff;
     font-size: 1.1em;
     margin: 0 auto;
+    width: 290px;
 }
 
 /*FOOTER-------------------------*/
